@@ -1,9 +1,9 @@
 ## Studying Ruby from February 22, 2019
-Since 2/22/2019, switched creating portfolio by PHP to Ruby learning.
+~~Since 2/22/2019, switched creating portfolio by PHP to Ruby learning.~~
 
-#### PHPによるTODOリスト作成を~~中断しRuby習得開始→1つ目のポートフォリオをRuby&Railsで作り直し~~
+#### PHPによるToDoリスト作成を~~中断しRuby学習開始→Ruby&Railsで作り直し~~
 (変更)
-最低限の仕様に基づき一応の完成を優先、後にRuby→Railsの初期学習再開*(3/3～)*
+最低限の仕様に基づき一応の完成を優先、後にRuby、Railsの初期学習再開 *(3/3～)*
 
 ## 学習計画
 
