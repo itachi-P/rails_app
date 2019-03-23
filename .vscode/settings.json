@@ -1,5 +1,6 @@
 {
     "git.ignoreLimitWarning": true,
     "files.autoGuessEncoding": true,
-    "files.eol": "\r\n"
+    "files.eol": "\r\n",
+    "editor.tabSize": 2
 }
